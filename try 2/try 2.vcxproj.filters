@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Resource.rc">
+      <UniqueIdentifier>{56fba7d0-1023-458a-8dd9-ca2f1f1fade6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Source.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="twoC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-red-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-red-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-red-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-green-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-green-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-green-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-blue-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-blue-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="triangle-blue-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="threeC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-red-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-red-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-red-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-green-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-green-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-green-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-blue-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-blue-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="square-blue-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="SixC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="SevenC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="selectedSquere3.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="selectedSquere2.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="selectedSquere1.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="OneC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="NineC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="menu.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="Image.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="fourC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="FiveC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="EightC.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-red-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-red-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-blue-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-blue-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-blue-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-green-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-green-full.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-green-strips.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+    <Image Include="circle-red-empty.bmp">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\Set33\try 2\jumper.wav">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Media>
+    <Media Include="..\..\Set33\try 2\Hax.wav">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Media>
+    <Media Include="..\..\Set33\try 2\Buzzer.wav">
+      <Filter>Resource Files\Resource.rc</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
